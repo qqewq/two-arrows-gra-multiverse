@@ -5,8 +5,8 @@
   "description": "A theoretical framework unifying the thermodynamic arrow of time and the cosmological negentropic arrow within a multilevel GRA meta-reset architecture of the multiverse. The work introduces operator-valued arrows, a multilevel GRA functional, and a coupled evolution matrix that together define a single law of evolution in the multiverse, allowing both arrows to coexist without violating the Second Law of Thermodynamics.",
   "creators": [
     {
-      "name": "YourSurname, YourName",
-      "affiliation": "Your Institution"
+      "name": "Bitsoev, Oleg",
+      "affiliation": ""
     }
   ],
   "keywords": [
@@ -25,7 +25,7 @@
   "notes": "Initial Zenodo metadata for the first public release of the repository two-arrows-gra-multiverse. Update the DOI and related_identifiers after the first deposition.",
   "related_identifiers": [
     {
-      "identifier": "https://github.com/YourUser/two-arrows-gra-multiverse",
+      "identifier": "https://github.com/qqewq/two-arrows-gra-multiverse",
       "relation": "isSupplementTo",
       "resource_type": "software"
     }
