@@ -1,16 +1,3 @@
-two-arrows-gra-multiverse/
-├─ README.md
-├─ LICENSE
-├─ CITATION.cff
-├─ zenodo.json
-├─ src/
-│  ├─ arrows_gra_multiverse.tex
-│  └─ figures/
-├─ notes/
-│  └─ derivations_arrows_gra.md
-└─ examples/
-   └─ toy_model_matrix_M.ipynb
-
 # Two Arrows of Time and Multilevel GRA Meta-Reset Architecture of the Multiverse
 
 This repository contains a theoretical framework that unifies the **thermodynamic arrow of time** and the **cosmological negentropic arrow of time** within a **multilevel GRA meta-reset architecture of the multiverse**. The core idea is that the two arrows coexist, exhibit a controlled antisymmetry, and become coherently coupled at the highest level of a multiverse hierarchy, without violating the Second Law of Thermodynamics [web:2][web:6][web:17][web:20].
@@ -198,3 +185,4 @@ pdflatex arrows_gra_multiverse.tex
 bibtex arrows_gra_multiverse   # if using references
 pdflatex arrows_gra_multiverse.tex
 pdflatex arrows_gra_multiverse.tex
+
