@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this theory or repository, please cite it as below."
+title: "Two Arrows of Time and Multilevel GRA Meta-Reset Architecture of the Multiverse"
+authors:
+  - family-names: "YourSurname"
+    given-names: "YourName"
+    affiliation: "Your Institution"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+abstract: >
+  This repository develops a unified framework in which the thermodynamic
+  entropy arrow and the cosmological negentropic arrow coexist without violating
+  the Second Law of Thermodynamics, and become coherently coupled within a
+  multilevel GRA meta-reset architecture of the multiverse. The formalism uses
+  operator-valued arrows, a multilevel GRA functional, and a coupled evolution
+  matrix to define a single law of evolution in the multiverse.
+keywords:
+  - arrow of time
+  - thermodynamic entropy
+  - cosmological negentropy
+  - multiverse
+  - GRA architecture
+  - theoretical physics
+license: "CC-BY-4.0"
+type: "software"
+version: "1.0.0"
+date-released: "2026-02-10"
+repository-code: "https://github.com/YourUser/two-arrows-gra-multiverse"
+doi: "10.5281/zenodo.xxxxxxx"
+preferred-citation:
+  type: article
+  title: "Two Arrows of Time and Multilevel GRA Meta-Reset Architecture of the Multiverse"
+  authors:
+    - family-names: "YourSurname"
+      given-names: "YourName"
+  year: 2026
+  journal: "Preprint (GitHub/Zenodo)"
+  doi: "10.5281/zenodo.xxxxxxx"
